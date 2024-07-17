@@ -2,7 +2,7 @@
 ## Overview
 This project involves the analysis of a pizza orders database to extract meaningful insights using SQL. The database contains information about orders, pizza details, and sales. The project demonstrates various SQL techniques for data querying, manipulation, and analysis.
 
-## Features
+## Features and Insights 
 - Total Orders Calculation: Retrieve the total number of orders placed.
 - Revenue Calculation: Calculate the total revenue generated from pizza sales.
 - Highest-Priced Pizza Identification: Identify the highest-priced pizza.
